@@ -36,3 +36,6 @@ Aqui você encontra partes complementares a cada um dos códigos.
 
     > CORRELAÇÃO DE SPEARMAN
 
+=> DISTRIBUIÇÃO DE FRENQUENCIA
+
+    >
