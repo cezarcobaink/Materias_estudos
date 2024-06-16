@@ -1,4 +1,4 @@
-=>TENDECIA CENTRAL
+=>TENDÊCIA CENTRAL
 
 ![central1](../Imagens/central1.png)
 
